@@ -1,0 +1,216 @@
+﻿matchid,score1_versustableclass,score1_versusplayingstyle,score_formclass,score1_home_goal_away_conceded_class,score1_fifatopteamlocation,final score,Round,Date,Location,Home Team,Away Team,league
+216,1,1,1,0,1,4,18,1/12/2025 21:00,St. Andrew's @ Knighthead Park,Birmingham,Watford,championship
+217,0,0,1,0,1,2,19,5/12/2025 21:00,The MKM Stadium,Hull,Middlesbrough,championship
+218,1,1,1,1,1,5,19,6/12/2025 13:30,The Valley,Charlton,Portsmouth,championship
+219,0,1,1,0,1,3,19,6/12/2025 13:30,Pride Park Stadium,Derby,Leicester,championship
+220,1,0,1,0,1,3,19,6/12/2025 13:30,Vicarage Road,Watford,Norwich,championship
+221,1,0,1,0,1,3,19,6/12/2025 16:00,Ewood Park,Blackburn,Sheffield Weds,championship
+222,0,0,1,1,1,3,19,6/12/2025 16:00,Ashton Gate Stadium,Bristol City,Millwall,championship
+223,0,0,1,0,1,2,19,6/12/2025 16:00,Portman Road,Ipswich,Coventry,championship
+224,0,0,1,1,1,3,19,6/12/2025 16:00,Deepdale,Preston,Wrexham,championship
+225,1,1,1,1,1,5,19,6/12/2025 16:00,MATRADE Loftus Road,QPR,West Brom,championship
+226,0,0,1,1,1,3,19,6/12/2025 16:00,Bramall Lane,Sheffield United,Stoke,championship
+227,1,0,1,1,1,4,19,6/12/2025 16:00,St. Mary's Stadium,Southampton,Birmingham,championship
+228,1,0,0,1,1,3,19,6/12/2025 16:00,Swansea.com Stadium,Swansea,Oxford,championship
+229,1,1,1,0,1,4,20,9/12/2025 20:45,Ewood Park,Blackburn,Oxford,championship
+230,0,0,1,1,1,3,20,9/12/2025 20:45,The Valley,Charlton,Middlesbrough,championship
+231,0,1,1,0,1,3,20,9/12/2025 20:45,Deepdale,Preston,Coventry,championship
+232,1,0,0,0,1,2,20,9/12/2025 20:45,Bramall Lane,Sheffield United,Norwich,championship
+233,1,0,1,1,1,4,20,9/12/2025 20:45,St. Mary's Stadium,Southampton,West Brom,championship
+234,1,0,0,1,1,3,20,9/12/2025 20:45,Swansea.com Stadium,Swansea,Portsmouth,championship
+235,1,0,1,0,1,3,20,9/12/2025 20:45,Vicarage Road,Watford,Sheffield Weds,championship
+236,1,1,1,1,1,5,20,9/12/2025 21:00,MATRADE Loftus Road,QPR,Birmingham,championship
+237,0,0,1,1,1,3,20,10/12/2025 20:45,Ashton Gate Stadium,Bristol City,Leicester,championship
+238,0,0,1,0,1,2,20,10/12/2025 20:45,Pride Park Stadium,Derby,Millwall,championship
+239,0,0,1,1,1,3,20,10/12/2025 20:45,Portman Road,Ipswich,Stoke,championship
+240,1,0,1,1,1,4,20,10/12/2025 21:00,The MKM Stadium,Hull,Wrexham,championship
+241,1,1,1,1,1,5,21,12/12/2025 21:00,The Hawthorns,West Brom,Sheffield United,championship
+242,1,0,1,1,1,4,21,13/12/2025 13:30,Carrow Road,Norwich,Southampton,championship
+243,0,1,1,1,1,4,21,13/12/2025 13:30,The Kassam Stadium,Oxford,Preston,championship
+244,0,0,1,0,1,2,21,13/12/2025 13:30,bet365 Stadium,Stoke,Swansea,championship
+245,1,1,1,0,1,4,21,13/12/2025 16:00,St. Andrew's @ Knighthead Park,Birmingham,Charlton,championship
+246,0,1,1,0,1,3,21,13/12/2025 16:00,The Coventry Building Society Arena,Coventry,Bristol City,championship
+247,0,1,1,1,1,4,21,13/12/2025 16:00,King Power Stadium,Leicester,Ipswich,championship
+248,0,0,1,1,1,3,21,13/12/2025 16:00,Riverside Stadium,Middlesbrough,QPR,championship
+249,0,0,1,1,1,3,21,13/12/2025 16:00,The Den,Millwall,Hull,championship
+250,1,1,1,1,1,5,21,13/12/2025 16:00,Fratton Park,Portsmouth,Blackburn,championship
+251,1,0,1,1,1,4,21,13/12/2025 16:00,SToK Cae Ras,Wrexham,Watford,championship
+252,0,0,1,1,1,3,21,15/12/2025 21:00,Hillsborough,Sheffield Weds,Derby,championship
+253,1,0,1,1,1,4,22,19/12/2025 21:00,Swansea.com Stadium,Swansea,Wrexham,championship
+254,0,0,1,0,1,2,22,20/12/2025 13:30,Ewood Park,Blackburn,Millwall,championship
+255,0,1,1,0,1,3,22,20/12/2025 13:30,Deepdale,Preston,Norwich,championship
+256,0,0,1,0,1,2,22,20/12/2025 13:30,St. Mary's Stadium,Southampton,Coventry,championship
+257,0,0,1,1,1,3,22,20/12/2025 16:00,Ashton Gate Stadium,Bristol City,Middlesbrough,championship
+258,1,1,1,1,1,5,22,20/12/2025 16:00,The Valley,Charlton,Oxford,championship
+259,0,1,1,0,1,3,22,20/12/2025 16:00,Pride Park Stadium,Derby,Portsmouth,championship
+260,1,0,1,1,1,4,22,20/12/2025 16:00,The MKM Stadium,Hull,West Brom,championship
+261,0,0,1,0,1,2,22,20/12/2025 16:00,Portman Road,Ipswich,Sheffield Weds,championship
+262,1,1,1,1,1,5,22,20/12/2025 16:00,MATRADE Loftus Road,QPR,Leicester,championship
+263,1,1,1,1,1,5,22,20/12/2025 16:00,Bramall Lane,Sheffield United,Birmingham,championship
+264,0,0,1,1,1,3,22,20/12/2025 16:00,Vicarage Road,Watford,Stoke,championship
+265,1,1,1,1,1,5,23,26/12/2025 13:30,St. Andrew's @ Knighthead Park,Birmingham,Derby,championship
+266,0,0,1,1,1,3,23,26/12/2025 14:00,The Den,Millwall,Ipswich,championship
+267,0,1,0,0,1,2,23,26/12/2025 16:00,The Coventry Building Society Arena,Coventry,Swansea,championship
+268,1,1,1,1,1,5,23,26/12/2025 16:00,King Power Stadium,Leicester,Watford,championship
+269,0,0,1,1,1,3,23,26/12/2025 16:00,Riverside Stadium,Middlesbrough,Blackburn,championship
+270,1,0,1,1,1,4,23,26/12/2025 16:00,Carrow Road,Norwich,Charlton,championship
+271,1,1,1,1,1,5,23,26/12/2025 16:00,The Kassam Stadium,Oxford,Southampton,championship
+272,1,1,1,1,1,5,23,26/12/2025 16:00,Fratton Park,Portsmouth,QPR,championship
+273,1,0,1,1,1,4,23,26/12/2025 16:00,Hillsborough,Sheffield Weds,Hull,championship
+274,0,0,1,1,1,3,23,26/12/2025 16:00,bet365 Stadium,Stoke,Preston,championship
+275,0,1,1,1,1,4,23,26/12/2025 16:00,The Hawthorns,West Brom,Bristol City,championship
+276,1,0,1,1,1,4,23,26/12/2025 18:30,SToK Cae Ras,Wrexham,Sheffield United,championship
+277,0,1,1,1,1,4,24,29/12/2025 19:00,The Coventry Building Society Arena,Coventry,Ipswich,championship
+278,0,1,1,1,1,4,24,29/12/2025 20:45,King Power Stadium,Leicester,Derby,championship
+279,0,0,1,1,1,3,24,29/12/2025 20:45,Riverside Stadium,Middlesbrough,Hull,championship
+280,0,0,1,1,1,3,24,29/12/2025 20:45,The Den,Millwall,Bristol City,championship
+281,1,0,1,1,1,4,24,29/12/2025 20:45,Carrow Road,Norwich,Watford,championship
+282,1,1,0,1,1,4,24,29/12/2025 20:45,The Kassam Stadium,Oxford,Swansea,championship
+283,1,1,1,1,1,5,24,29/12/2025 20:45,Fratton Park,Portsmouth,Charlton,championship
+284,1,0,1,1,1,4,24,29/12/2025 20:45,Hillsborough,Sheffield Weds,Blackburn,championship
+285,0,0,1,0,1,2,24,29/12/2025 20:45,bet365 Stadium,Stoke,Sheffield United,championship
+286,1,1,1,1,1,5,24,29/12/2025 20:45,The Hawthorns,West Brom,QPR,championship
+287,1,0,1,1,1,4,24,29/12/2025 20:45,SToK Cae Ras,Wrexham,Preston,championship
+288,1,1,1,1,1,5,24,29/12/2025 21:15,St. Andrew's @ Knighthead Park,Birmingham,Southampton,championship
+289,1,0,1,1,1,4,25,1/1/2026 13:30,Ewood Park,Blackburn,Wrexham,championship
+290,0,0,1,1,1,3,25,1/1/2026 16:00,Ashton Gate Stadium,Bristol City,Portsmouth,championship
+291,0,1,1,1,1,4,25,1/1/2026 16:00,The Valley,Charlton,Coventry,championship
+292,0,0,1,0,1,2,25,1/1/2026 16:00,Pride Park Stadium,Derby,Middlesbrough,championship
+293,0,0,1,1,1,3,25,1/1/2026 16:00,The MKM Stadium,Hull,Stoke,championship
+294,0,0,1,0,1,2,25,1/1/2026 16:00,Portman Road,Ipswich,Oxford,championship
+295,0,0,1,0,1,2,25,1/1/2026 16:00,Deepdale,Preston,Sheffield Weds,championship
+296,1,1,1,1,1,5,25,1/1/2026 16:00,MATRADE Loftus Road,QPR,Norwich,championship
+297,0,0,1,0,1,2,25,1/1/2026 16:00,St. Mary's Stadium,Southampton,Millwall,championship
+298,1,0,1,1,1,4,25,1/1/2026 16:00,Swansea.com Stadium,Swansea,West Brom,championship
+299,1,1,1,1,1,5,25,1/1/2026 16:00,Vicarage Road,Watford,Birmingham,championship
+300,1,1,1,0,1,4,25,1/1/2026 18:30,Bramall Lane,Sheffield United,Leicester,championship
+683,0,1,1,0,1,3,14,3/12/2025 20:00,Emirates Stadium,Arsenal,Brentford,epl
+684,0,0,1,1,1,3,14,3/12/2025 20:00,Vitality Stadium,Bournemouth,Everton,epl
+685,0,0,1,1,1,3,14,3/12/2025 20:00,American Express Stadium,Brighton,Aston Villa,epl
+686,0,1,1,1,1,4,14,3/12/2025 20:00,Turf Moor,Burnley,Crystal Palace,epl
+687,0,0,1,1,1,3,14,3/12/2025 20:00,Craven Cottage,Fulham,Man City,epl
+688,0,0,1,1,1,3,14,3/12/2025 20:00,Elland Road,Leeds,Chelsea,epl
+689,1,0,1,1,1,4,14,3/12/2025 20:00,Anfield,Liverpool,Sunderland,epl
+690,1,1,1,0,1,4,14,3/12/2025 20:00,Old Trafford,Man United,West Ham,epl
+691,1,1,1,0,1,4,14,3/12/2025 20:00,St. James' Park,Newcastle,Tottenham,epl
+692,1,0,0,1,1,3,14,3/12/2025 20:00,Molineux Stadium,Wolves,Nott'm Forest,epl
+693,0,0,1,1,1,3,15,6/12/2025 15:00,Villa Park,Aston Villa,Arsenal,epl
+694,0,0,1,1,1,3,15,6/12/2025 15:00,Vitality Stadium,Bournemouth,Chelsea,epl
+695,0,0,1,0,1,2,15,6/12/2025 15:00,American Express Stadium,Brighton,West Ham,epl
+696,1,1,1,1,1,5,15,6/12/2025 15:00,Hill Dickinson Stadium,Everton,Nott'm Forest,epl
+697,0,1,1,1,1,4,15,6/12/2025 15:00,Craven Cottage,Fulham,Crystal Palace,epl
+698,1,0,1,1,1,4,15,6/12/2025 15:00,Elland Road,Leeds,Liverpool,epl
+699,0,0,1,1,1,3,15,6/12/2025 15:00,Etihad Stadium,Man City,Sunderland,epl
+700,1,1,1,0,1,4,15,6/12/2025 15:00,St. James' Park,Newcastle,Burnley,epl
+701,1,0,1,0,1,3,15,6/12/2025 15:00,Tottenham Hotspur Stadium,Tottenham,Brentford,epl
+702,1,0,1,1,1,4,15,6/12/2025 15:00,Molineux Stadium,Wolves,Man United,epl
+703,0,1,0,0,1,2,16,13/12/2025 15:00,Emirates Stadium,Arsenal,Wolves,epl
+704,1,1,1,0,1,4,16,13/12/2025 15:00,Gtech Community Stadium,Brentford,Leeds,epl
+705,1,1,1,0,1,4,16,13/12/2025 15:00,Turf Moor,Burnley,Fulham,epl
+706,0,1,1,1,1,4,16,13/12/2025 15:00,Stamford Bridge,Chelsea,Everton,epl
+707,0,0,1,1,1,3,16,13/12/2025 15:00,Selhurst Park,Crystal Palace,Man City,epl
+708,1,0,1,1,1,4,16,13/12/2025 15:00,Anfield,Liverpool,Brighton,epl
+709,1,0,1,0,1,3,16,13/12/2025 15:00,Old Trafford,Man United,Bournemouth,epl
+710,1,1,1,0,1,4,16,13/12/2025 15:00,The City Ground,Nott'm Forest,Tottenham,epl
+711,0,1,1,1,1,4,16,13/12/2025 15:00,Stadium of Light,Sunderland,Newcastle,epl
+712,0,0,1,1,1,3,16,13/12/2025 15:00,London Stadium,West Ham,Aston Villa,epl
+713,0,0,1,0,1,2,17,20/12/2025 15:00,Villa Park,Aston Villa,Man United,epl
+714,0,0,1,0,1,2,17,20/12/2025 15:00,Vitality Stadium,Bournemouth,Burnley,epl
+715,0,0,1,1,1,3,17,20/12/2025 15:00,American Express Stadium,Brighton,Sunderland,epl
+716,0,1,1,1,1,4,17,20/12/2025 15:00,Hill Dickinson Stadium,Everton,Arsenal,epl
+717,1,1,1,1,1,5,17,20/12/2025 15:00,Craven Cottage,Fulham,Nott'm Forest,epl
+718,0,0,1,1,1,3,17,20/12/2025 15:00,Elland Road,Leeds,Crystal Palace,epl
+719,0,0,1,0,1,2,17,20/12/2025 15:00,Etihad Stadium,Man City,West Ham,epl
+720,0,1,1,1,1,4,17,20/12/2025 15:00,St. James' Park,Newcastle,Chelsea,epl
+721,1,0,1,0,1,3,17,20/12/2025 15:00,Tottenham Hotspur Stadium,Tottenham,Liverpool,epl
+722,1,0,1,1,1,4,17,20/12/2025 15:00,Molineux Stadium,Wolves,Brentford,epl
+723,0,0,1,1,1,3,18,27/12/2025 15:00,Emirates Stadium,Arsenal,Brighton,epl
+724,1,0,1,0,1,3,18,27/12/2025 15:00,Gtech Community Stadium,Brentford,Bournemouth,epl
+725,1,1,1,1,1,5,18,27/12/2025 15:00,Turf Moor,Burnley,Everton,epl
+726,0,0,1,1,1,3,18,27/12/2025 15:00,Stamford Bridge,Chelsea,Aston Villa,epl
+727,0,0,1,0,1,2,18,27/12/2025 15:00,Selhurst Park,Crystal Palace,Tottenham,epl
+728,1,0,1,1,1,4,18,27/12/2025 15:00,Anfield,Liverpool,Wolves,epl
+729,1,1,1,0,1,4,18,27/12/2025 15:00,Old Trafford,Man United,Newcastle,epl
+730,0,1,1,1,1,4,18,27/12/2025 15:00,The City Ground,Nott'm Forest,Man City,epl
+731,0,1,1,1,1,4,18,27/12/2025 15:00,Stadium of Light,Sunderland,Leeds,epl
+732,1,1,1,0,1,4,18,27/12/2025 15:00,London Stadium,West Ham,Fulham,epl
+733,0,0,1,1,1,3,19,30/12/2025 20:00,Emirates Stadium,Arsenal,Aston Villa,epl
+734,1,1,1,0,1,4,19,30/12/2025 20:00,Gtech Community Stadium,Brentford,Tottenham,epl
+735,1,1,1,0,1,4,19,30/12/2025 20:00,Turf Moor,Burnley,Newcastle,epl
+736,0,0,1,0,1,2,19,30/12/2025 20:00,Stamford Bridge,Chelsea,Bournemouth,epl
+737,0,1,1,0,1,3,19,30/12/2025 20:00,Selhurst Park,Crystal Palace,Fulham,epl
+738,1,0,1,1,1,4,19,30/12/2025 20:00,Anfield,Liverpool,Leeds,epl
+739,1,1,1,0,1,4,19,30/12/2025 20:00,Old Trafford,Man United,Wolves,epl
+740,1,1,1,1,1,5,19,30/12/2025 20:00,The City Ground,Nott'm Forest,Everton,epl
+741,0,1,1,1,1,4,19,30/12/2025 20:00,Stadium of Light,Sunderland,Man City,epl
+742,0,0,1,1,1,3,19,30/12/2025 20:00,London Stadium,West Ham,Brighton,epl
+1063,0,1,0,1,1,3,14,7/12/2025 15:00,Unipol Domus,Cagliari,Roma,seria a
+1064,1,0,1,1,1,4,14,7/12/2025 15:00,Giovanni Zini,Cremonese,Lecce,seria a
+1065,0,0,1,1,1,3,14,7/12/2025 15:00,Giuseppe Meazza,Inter,Como,seria a
+1066,0,1,1,1,1,4,14,7/12/2025 15:00,Olimpico,Lazio,Bologna,seria a
+1067,0,0,1,1,1,3,14,7/12/2025 15:00,Diego Armando Maradona,Napoli,Juventus,seria a
+1068,1,0,0,1,1,3,14,7/12/2025 15:00,Garibaldi,Pisa,Parma,seria a
+1069,1,0,1,0,1,3,14,7/12/2025 15:00,Mapei Stadium - CittÃ del Tricolore,Sassuolo,Fiorentina,seria a
+1070,0,0,1,1,1,3,14,7/12/2025 15:00,Olimpico Grande Torino,Torino,Milan,seria a
+1071,1,0,1,1,1,4,14,7/12/2025 15:00,Friuli,Udinese,Genoa,seria a
+1072,1,0,1,1,1,4,14,7/12/2025 15:00,Marcantonio Bentegodi,Verona,Atalanta,seria a
+1073,1,0,1,1,1,4,15,14/12/2025 15:00,Atleti Azzurri d'Italia,Atalanta,Cagliari,seria a
+1074,0,1,1,1,1,4,15,14/12/2025 15:00,Renato Dall'Ara,Bologna,Juventus,seria a
+1075,1,0,0,1,1,3,15,14/12/2025 15:00,Artemio Franchi,Fiorentina,Verona,seria a
+1076,0,1,1,1,1,4,15,14/12/2025 15:00,Luigi Ferraris,Genoa,Inter,seria a
+1077,1,0,0,1,1,3,15,14/12/2025 15:00,Ettore Giardiniero - Via del mare,Lecce,Pisa,seria a
+1078,0,0,1,1,1,3,15,14/12/2025 15:00,San Siro,Milan,Sassuolo,seria a
+1079,0,0,1,1,1,3,15,14/12/2025 15:00,Ennio Tardini,Parma,Lazio,seria a
+1080,0,0,1,1,1,3,15,14/12/2025 15:00,Olimpico,Roma,Como,seria a
+1081,1,1,1,1,1,5,15,14/12/2025 15:00,Olimpico Grande Torino,Torino,Cremonese,seria a
+1082,0,0,1,1,1,3,15,14/12/2025 15:00,Friuli,Udinese,Napoli,seria a
+1083,1,1,0,1,1,4,16,21/12/2025 15:00,Unipol Domus,Cagliari,Pisa,seria a
+1084,0,0,1,1,1,3,16,21/12/2025 15:00,Giuseppe Sinigaglia,Como,Milan,seria a
+1085,1,0,1,1,1,4,16,21/12/2025 15:00,Artemio Franchi,Fiorentina,Udinese,seria a
+1086,1,0,1,0,1,3,16,21/12/2025 15:00,Luigi Ferraris,Genoa,Atalanta,seria a
+1087,0,0,1,1,1,3,16,21/12/2025 15:00,Giuseppe Meazza,Inter,Lecce,seria a
+1088,0,0,1,1,1,3,16,21/12/2025 15:00,Juventus Stadium,Juventus,Roma,seria a
+1089,0,1,1,1,1,4,16,21/12/2025 15:00,Olimpico,Lazio,Cremonese,seria a
+1090,0,0,0,1,1,2,16,21/12/2025 15:00,Diego Armando Maradona,Napoli,Parma,seria a
+1091,1,0,1,0,1,3,16,21/12/2025 15:00,Mapei Stadium - CittÃ del Tricolore,Sassuolo,Torino,seria a
+1092,0,0,1,1,1,3,16,21/12/2025 15:00,Marcantonio Bentegodi,Verona,Bologna,seria a
+1093,0,0,1,1,1,3,17,28/12/2025 15:00,Renato Dall'Ara,Bologna,Sassuolo,seria a
+1094,0,0,1,1,1,3,17,28/12/2025 15:00,Giovanni Zini,Cremonese,Napoli,seria a
+1095,0,0,1,1,1,3,17,28/12/2025 15:00,Ettore Giardiniero - Via del mare,Lecce,Como,seria a
+1096,0,0,0,0,1,1,17,28/12/2025 15:00,San Siro,Milan,Verona,seria a
+1097,1,0,0,1,1,3,17,28/12/2025 15:00,Ennio Tardini,Parma,Fiorentina,seria a
+1098,0,1,1,1,1,4,17,28/12/2025 15:00,Garibaldi,Pisa,Juventus,seria a
+1099,0,0,0,0,1,1,17,28/12/2025 15:00,Olimpico,Roma,Genoa,seria a
+1100,1,1,1,1,1,5,17,28/12/2025 15:00,Olimpico Grande Torino,Torino,Cagliari,seria a
+1101,1,0,1,1,1,4,17,28/12/2025 15:00,Friuli,Udinese,Lazio,seria a
+1102,0,0,1,1,1,3,17,28/12/2025 15:00,Atleti Azzurri d'Italia,Atalanta,Inter,seria a
+1453,1,0,1,1,1,4,15,7/12/2025 21:00,Mendizorroza,Alaves,Sociedad,la liga 
+1454,0,0,1,1,1,3,15,7/12/2025 21:00,Estadio San MamÃ©s,Ath Bilbao,Ath Madrid,la liga 
+1455,1,1,1,1,1,5,15,7/12/2025 21:00,Estadio MartÃ­nez Valero,Elche,Girona,la liga 
+1456,0,0,1,1,1,3,15,7/12/2025 21:00,RCDE Stadium,Espanol,Vallecano,la liga 
+1457,0,0,1,0,1,2,15,7/12/2025 21:00,Estadio OlÃ­mpico de la Cartuja,Betis,Barcelona,la liga 
+1458,0,0,1,0,1,2,15,7/12/2025 21:00,Estadio Santiago BernabÃ©u,Real Madrid,Celta,la liga 
+1459,0,0,1,1,1,3,15,7/12/2025 21:00,Estadio de la CerÃ¡mica,Villarreal,Getafe,la liga 
+1460,1,1,0,1,1,4,15,7/12/2025 21:00,Estadio El Sadar,Osasuna,Levante,la liga 
+1461,1,1,0,1,1,4,15,7/12/2025 21:00,Estadio Carlos Tartiere,Oviedo,Mallorca,la liga 
+1462,1,1,1,1,1,5,15,7/12/2025 21:00,Camp de Mestalla,Valencia,Sevilla,la liga 
+1463,0,0,1,1,1,3,16,14/12/2025 21:00,Mendizorroza,Alaves,Real Madrid,la liga 
+1464,0,1,0,0,1,2,16,14/12/2025 21:00,Riyadh Air Metropolitano,Ath Madrid,Valencia,la liga 
+1465,0,0,0,0,1,1,16,14/12/2025 21:00,Spotify Camp Nou,Barcelona,Osasuna,la liga 
+1466,0,0,0,1,1,2,16,14/12/2025 21:00,Estadio Ciutat de ValÃ¨ncia,Levante,Villarreal,la liga 
+1467,1,0,1,0,1,3,16,14/12/2025 21:00,Estadio ABANCA BalaÃ­dos,Celta,Ath Bilbao,la liga 
+1468,1,0,1,1,1,4,16,14/12/2025 21:00,Estadio de Vallecas,Vallecano,Betis,la liga 
+1469,1,1,1,1,1,5,16,14/12/2025 21:00,Estadi Mallorca Son Moix,Mallorca,Elche,la liga 
+1470,0,1,1,1,1,4,16,14/12/2025 21:00,Coliseum,Getafe,Espanol,la liga 
+1471,1,1,1,0,1,4,16,14/12/2025 21:00,Reale Arena,Sociedad,Girona,la liga 
+1472,1,1,1,0,1,4,16,14/12/2025 21:00,RamÃ³n SÃ¡nchez-PizjuÃ¡n,Sevilla,Oviedo,la liga 
+1473,0,0,1,1,1,3,17,21/12/2025 21:00,Estadio San MamÃ©s,Ath Bilbao,Espanol,la liga 
+1474,0,0,1,1,1,3,17,21/12/2025 21:00,Estadio OlÃ­mpico de la Cartuja,Betis,Getafe,la liga 
+1475,1,0,1,1,1,4,17,21/12/2025 21:00,Estadio MartÃ­nez Valero,Elche,Vallecano,la liga 
+1476,1,0,1,1,1,4,17,21/12/2025 21:00,Estadio Ciutat de ValÃ¨ncia,Levante,Sociedad,la liga 
+1477,0,1,1,0,1,3,17,21/12/2025 21:00,Estadio Santiago BernabÃ©u,Real Madrid,Sevilla,la liga 
+1478,1,0,1,1,1,4,17,21/12/2025 21:00,Estadio El Sadar,Osasuna,Alaves,la liga 
+1479,0,1,0,1,1,3,17,21/12/2025 21:00,Estadio Municipal de Montilivi,Girona,Ath Madrid,la liga 
+1480,0,0,0,0,1,1,17,21/12/2025 21:00,Estadio de la CerÃ¡mica,Villarreal,Barcelona,la liga 
+1481,1,1,1,1,1,5,17,21/12/2025 21:00,Estadio Carlos Tartiere,Oviedo,Celta,la liga 
+1482,1,1,0,1,1,4,17,21/12/2025 21:00,Camp de Mestalla,Valencia,Mallorca,la liga 
